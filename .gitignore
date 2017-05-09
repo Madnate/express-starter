@@ -1,0 +1,6 @@
+// dependencies packages
+node_modules
+// IDE config
+.idea
+// compiled files
+public
